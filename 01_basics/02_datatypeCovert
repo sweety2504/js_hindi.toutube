@@ -1,0 +1,36 @@
+/*let score="33";
+
+console.log(typeof score);
+console.log((typeof score));
+
+
+/*let value=Number(score);
+
+console.log(typeof value);*/
+
+
+
+let value="33abc";
+console.log( value);
+
+
+// "33"=33
+//"33abc"=NaN
+//true=1
+
+let isLoggedIn=0; 
+
+let bollisLogged=Boolean(isLoggedIn);
+console.log(bollisLogged);
+
+
+//""=false
+//"sweety"=true
+
+
+let some=33
+
+let stringNu=String(some)
+
+console.log(stringNu);
+console.log(typeof stringNu);
